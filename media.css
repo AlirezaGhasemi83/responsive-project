@@ -1,0 +1,58 @@
+@media(max-width:600px) {
+   .list li {
+      width: 100%;
+      display: inline-block;
+   }
+
+   .nav ul {
+      width: 100%;
+   }
+
+   .logo {
+      text-align: center;
+      width: 100%;
+      margin-left: 0;
+   }
+
+   ul {
+      width: 100%;
+      margin-right: 10px;
+      display: block;
+   }
+
+   .main {
+      background-size: cover;
+   }
+
+   .ads div {
+      width: 100%;
+      padding: 30px;
+
+   }
+
+   .ads span {
+      display: block;
+
+   }
+
+   .ads .knowledge {
+      text-align: center;
+      width: 60%;
+      margin-top: 10px;
+      margin-left: 90px;
+
+   }
+
+   .history input {
+      margin: 30px 150px;
+   }
+
+   .port div {
+      width: 100%;
+   }
+
+   .footer .end {
+      background-color: red;
+      margin-top: 1096px;
+   }
+}
